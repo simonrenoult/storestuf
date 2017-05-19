@@ -1,0 +1,8 @@
+{
+  "name": "logify",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Simon Renoult <srenoult@octo.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
