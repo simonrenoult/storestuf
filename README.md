@@ -1,4 +1,4 @@
-# Logify
+# Storstuf
 
 > Log stuff.
 
